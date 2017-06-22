@@ -26,7 +26,7 @@ Note: You need to make the following changes to AppDelegate
 	myNotificationCategories.addAllNotificationsCategories()
 5. Customize actions. For testing purposes I have 3 test actions pointing at 3 functions in ViewController.swift. Either add these functions or customize the actions.
 
-	func action1() {
+		func action1() {
         	print("action1")
        
     	}
