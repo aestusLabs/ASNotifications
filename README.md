@@ -1,7 +1,6 @@
 # ASNotifications (Aestus Starter Notifications)
 Boilerplate code that makes it easy to add iOS10+ notifications to your iOS project. (Swift 3)
 
-Note: You need to make the following changes to AppDelegate
 
 # Set Up
 
