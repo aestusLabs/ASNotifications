@@ -14,12 +14,12 @@ func handleUserAction(response: UNNotificationResponse) {
     let vc = ViewController()
     
     if response.actionIdentifier == actionIDs.testAction1 {
-    vc.action1()
+   // vc.action1()
     
     } else if response.actionIdentifier == actionIDs.testAction2 {
-        vc.action2()
+     //   vc.action2()
     } else if response.actionIdentifier == actionIDs.testAction3 {
-        vc.action3()
+       // vc.action3()
     }
 }
 
